@@ -1,0 +1,4 @@
+StepDefinitions\StepDefs.class
+logPageTest\BasePageTest.class
+RunnerCucumber\RunTest.class
+logPageTest\IDriverManager.class
